@@ -7,35 +7,29 @@
 
 - 📫 How to reach me **paolorabbito@gmail.com**
 
-<h3 align="left">Database:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 <h3 align="left">Technologies i'm working with:</h3>
 
 <p align="left">
-    <i class="devicon-html5-plain"></i>
-    <i class="devicon-css3-plain"></i>
-    <i class="devicon-typescript-plain"></i>
-    <i class="devicon-angularjs-plain"></i>
-    <i class="devicon-ionic-original"></i>
-    <i class="devicon-nodejs-plain"></i>
-    <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="mysql" width="40" height="40"/> </a></p>
-    <i class="devicon-git-plain"></i>
-    <i class="devicon-vscode-plain"></i>
-    <i class="devicon-linux-plain"></i>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <!--Typescript-->
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 
 <h3 align="left">Technologies i have worked with:</h3>
 <p align="left"> 
     <i class="devicon-processing-plain"></i>
-    <i class="devicon-php-plain"></i>
-    <i class="devicon-java-plain"></i>
-    <i class="devicon-laravel-plain"></i>
-    <i class="devicon-cplusplus-plain"></i>
-    <i class="devicon-spring-plain"></i>
-    <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
-    <i class="devicon-putty-plain"></i>
-    <i class="devicon-latex-original"></i> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
         
