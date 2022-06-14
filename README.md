@@ -27,7 +27,7 @@
 
 <h3 align="left">Technologies i have worked with:</h3>
 <p align="left"> 
-    <li class="list-inline-item"><i class="devicon-processing-plain"></i></li>
+    <i class="devicon-processing-plain"></i>
     <li class="list-inline-item"><i class="devicon-php-plain"></i></li>
     <li class="list-inline-item"><i class="devicon-java-plain"></i></li>
     <li class="list-inline-item"><i class="devicon-laravel-plain"></i></li>
