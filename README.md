@@ -13,30 +13,30 @@
 <h3 align="left">Technologies i'm working with:</h3>
 
 <p align="left">
-    <li class="list-inline-item"><i class="devicon-html5-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-css3-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-typescript-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-angularjs-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-ionic-original"></i></li>
-    <li class="list-inline-item"><i class="devicon-nodejs-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-bootstrap-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-git-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-vscode-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-linux-plain"></i></li>
+    <i class="devicon-html5-plain"></i>
+    <i class="devicon-css3-plain"></i>
+    <i class="devicon-typescript-plain"></i>
+    <i class="devicon-angularjs-plain"></i>
+    <i class="devicon-ionic-original"></i>
+    <i class="devicon-nodejs-plain"></i>
+    <i class="devicon-bootstrap-plain"></i>
+    <i class="devicon-git-plain"></i>
+    <i class="devicon-vscode-plain"></i>
+    <i class="devicon-linux-plain"></i>
 </p>
 
 
 <h3 align="left">Technologies i have worked with:</h3>
 <p align="left"> 
-    <li class="list-inline-item"><i class="devicon-processing-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-php-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-java-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-laravel-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-cplusplus-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-spring-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-mysql-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-putty-plain"></i></li>
-    <li class="list-inline-item"><i class="devicon-latex-original"></i></li> 
+    <i class="devicon-processing-plain"></i>
+    <i class="devicon-php-plain"></i>
+    <i class="devicon-java-plain"></i>
+    <i class="devicon-laravel-plain"></i>
+    <i class="devicon-cplusplus-plain"></i>
+    <i class="devicon-spring-plain"></i>
+    <i class="devicon-mysql-plain"></i>
+    <i class="devicon-putty-plain"></i>
+    <i class="devicon-latex-original"></i> 
 </p>
 
         
