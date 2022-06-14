@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Paolo Rabbito</h1>
 <h3 align="center">Computer science student passionated about web development and recently about IT security</h3>
 
@@ -27,7 +28,7 @@
 
 <h3 align="left">Technologies i have worked with:</h3>
 <p align="left"> 
-    <i class="devicon-processing-plain"></i>
+    <li class="list-inline-item"><i class="devicon-processing-plain"></i></li>
     <li class="list-inline-item"><i class="devicon-php-plain"></i></li>
     <li class="list-inline-item"><i class="devicon-java-plain"></i></li>
     <li class="list-inline-item"><i class="devicon-laravel-plain"></i></li>
