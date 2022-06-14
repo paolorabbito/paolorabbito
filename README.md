@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working on **my web development skills and personal projects**-->
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **paolorabbito@gmail.com**
 
