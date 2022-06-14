@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Paolo Rabbito</h1>
 <h3 align="center">Computer science student passionated about web development and recently about IT security</h3>
 
@@ -19,7 +18,7 @@
     <i class="devicon-angularjs-plain"></i>
     <i class="devicon-ionic-original"></i>
     <i class="devicon-nodejs-plain"></i>
-    <i class="devicon-bootstrap-plain"></i>
+    <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="mysql" width="40" height="40"/> </a></p>
     <i class="devicon-git-plain"></i>
     <i class="devicon-vscode-plain"></i>
     <i class="devicon-linux-plain"></i>
@@ -34,7 +33,7 @@
     <i class="devicon-laravel-plain"></i>
     <i class="devicon-cplusplus-plain"></i>
     <i class="devicon-spring-plain"></i>
-    <i class="devicon-mysql-plain"></i>
+    <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
     <i class="devicon-putty-plain"></i>
     <i class="devicon-latex-original"></i> 
 </p>
