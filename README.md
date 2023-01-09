@@ -10,13 +10,12 @@
 <h3 align="left">Technologies i'm working with:</h3>
 
 <p align="left">
-    
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/amazonwebservices.png" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/symfony.png" alt="symfony" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/>
 </p>
 
 
