@@ -3,9 +3,9 @@
 
 <!--- 🔭 I’m currently working on **my web development skills and personal projects**-->
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **paolorabbito@gmail.com**
+- 📫 How to reach me **paolorabbitodev@gmail.com**
 
 <h3 align="left">Technologies i'm working with:</h3>
 
