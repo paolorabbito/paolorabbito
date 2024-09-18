@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/symfony.png" alt="symfony" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="nest" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/nest.svg" alt="nest" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/>
 </p>
 
