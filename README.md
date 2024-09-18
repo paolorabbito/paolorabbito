@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paolo Rabbito</h1>
-<h3 align="center">Computer science student passionated about web development and recently about IT security</h3>
+<h3 align="center">Software Engineer</h3>
 
 <!--- 🔭 I’m currently working on **my web development skills and personal projects**-->
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **paolorabbitodev@gmail.com**
 
